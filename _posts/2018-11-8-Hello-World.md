@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 ---
-# Who am I? <h2>
+# Who am I? 
 My name is **Olivia Rodriguez** and I am currently a Junior at Franklin D. Roosevelt High School. I play varsity softball for my school. I have always wanted to play softball because I grew up knowing the game. My dad and brother are both coaches for Men's League in Grand Prairie and Oakcliff. I am also in the Roosevelt H-tech Collegiate Academy. Although it is hard work, I enjoy working with computers, and I am interested in engineering. I like the idea of fixing things and understanding how things work. Recently, I have been interested in Avionics, but I will still have to explore my options. I was born and raised in Dallas, Texas; however, I want to move away from Dallas for at least a couple years. I plan on moving to Los Angeles to get away from the same old people and routines I'm used to. I want to venture out into the world and do new things. In addition to that, I have 3 siblings: a sister and two brothers. I am the youngest. I also have three nieces: Kylee, Addison, and Alonnah. I want to be a good example and help them with school.
 
 My top favorite colleges are:
