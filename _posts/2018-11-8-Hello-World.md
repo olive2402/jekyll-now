@@ -15,8 +15,8 @@ My goals in life are:
 1. make my family proud
 2. finish college
 3. get a career
-# What am I doing here? <h2>
+# What am I doing here? 
 When I heard about the collegiate academy at Roosevelt High School, I was in middle school at Oliver Wendell Holmes. I was immediately interested because, with a lot of work, I would be getting my Associates degree for free. ~Also, when I go to college, I would get my Bachelors degree in two years.~ I am here to prove people wrong. There is a lot of people in my life who have just messed up and I don't want that for myself. **I want to make my family proud by accomplishing my goals in this program.** Most of my family didn't attend college, so by doing this, I hope I can set an example for my nieces, nephews, and my own kids someday. This is the foundation for the rest of my life, and it is the best opportunity that I ever had.
 
-# Where will you take this experience? <h2>
+# Where will you take this experience? 
 I am planning on taking my skills to my future career. I want to go to college first and *further my understanding of basic engineering*. I believe that I will be able to use my skills to benefit others. I want to use my mind to make the world around me better.
